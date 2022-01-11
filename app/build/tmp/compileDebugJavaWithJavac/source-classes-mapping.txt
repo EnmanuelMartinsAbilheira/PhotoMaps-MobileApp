@@ -1,0 +1,18 @@
+ipca/example/photomap/BuildConfig.java
+ ipca.example.photomap.BuildConfig
+ipca/example/photomap/databinding/RowPhotoBinding.java
+ ipca.example.photomap.databinding.RowPhotoBinding
+ipca/example/photomap/databinding/ActivitySplashScreenBinding.java
+ ipca.example.photomap.databinding.ActivitySplashScreenBinding
+ipca/example/photomap/databinding/FragmentPhotoBinding.java
+ ipca.example.photomap.databinding.FragmentPhotoBinding
+ipca/example/photomap/databinding/FragmentDashboardBinding.java
+ ipca.example.photomap.databinding.FragmentDashboardBinding
+ipca/example/photomap/databinding/FragmentHomeBinding.java
+ ipca.example.photomap.databinding.FragmentHomeBinding
+ipca/example/photomap/databinding/FragmentNotificationsBinding.java
+ ipca.example.photomap.databinding.FragmentNotificationsBinding
+ipca/example/photomap/databinding/ActivityLoginBinding.java
+ ipca.example.photomap.databinding.ActivityLoginBinding
+ipca/example/photomap/databinding/ActivityMainBinding.java
+ ipca.example.photomap.databinding.ActivityMainBinding

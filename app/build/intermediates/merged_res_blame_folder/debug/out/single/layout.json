@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_photo.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/fragment_photo.xml"
+    },
+    {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_photo.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/row_photo.xml"
+    },
+    {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dashboard.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_notifications.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash_screen.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/activity_splash_screen.xml"
+    }
+]
