@@ -1866,6 +1866,7 @@ drawable design_snackbar_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_baseline_add_a_photo_24
+drawable ic_baseline_person_24
 drawable ic_baseline_save_24
 drawable ic_clock_black_24dp
 drawable ic_dashboard_black_24dp
@@ -2024,6 +2025,7 @@ id browser_actions_menu_view
 id buttonLogin
 id buttonLogout
 id buttonPanel
+id buttonSave
 id cache_measures
 id cancel_action
 id cancel_button
@@ -2098,6 +2100,7 @@ id easeOut
 id east
 id editTextDescription
 id editTextEmail
+id editTextName
 id editTextPassword
 id edit_query
 id elastic
@@ -2240,10 +2243,9 @@ id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
 id navigation_bar_item_small_label_view
-id navigation_dashboard
 id navigation_header_container
 id navigation_home
-id navigation_notifications
+id navigation_profile
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
@@ -2408,6 +2410,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id userPhoto
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -2520,6 +2523,7 @@ layout fragment_dashboard
 layout fragment_home
 layout fragment_notifications
 layout fragment_photo
+layout fragment_profile
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2745,6 +2749,7 @@ string status_bar_notification_info_overflow
 string title_dashboard
 string title_home
 string title_notifications
+string title_profile
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

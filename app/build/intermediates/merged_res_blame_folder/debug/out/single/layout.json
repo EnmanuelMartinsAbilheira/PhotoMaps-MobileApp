@@ -16,6 +16,10 @@
         "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/fragment_home.xml"
     },
     {
+        "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_profile.xml",
+        "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
         "merged": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_photo.xml",
         "source": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/src/main/res/layout/row_photo.xml"
     },

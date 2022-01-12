@@ -4,7 +4,17 @@
             "outputFile": "/Users/enmanuelmartins/Desktop/PhotoMapsLESIPDM2122-main/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/enmanuelmartins/.gradle/caches/transforms-3/251d6c73e0f6e72f29ebd7aba0a79ab7/transformed/media-1.0.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/enmanuelmartins/.gradle/caches/transforms-3/593adae09a5659fb6494a099be12b0d6/transformed/appcompat-1.3.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/Users/enmanuelmartins/.gradle/caches/transforms-3/61c36d7dcdeafc3aa99481f0f0548cbd/transformed/media-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
-                    }
-                },
-                {
-                    "source": "/Users/enmanuelmartins/.gradle/caches/transforms-3/8c94eeb01fd1dfc0e033e3fd56c88e74/transformed/appcompat-1.3.1/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
                     }
                 }
             ]
